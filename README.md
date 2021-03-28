@@ -1,1 +1,1 @@
-# single-electron-transistor
+# 6T SRAM parametric analysis
